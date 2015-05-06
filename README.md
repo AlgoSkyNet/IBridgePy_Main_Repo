@@ -1,6 +1,6 @@
 # IBridgePy
 
-You will welcome to join the IBridgePy community at tradingwithIB.com
+You are welcome to join the IBridgePy community at tradingwithIB.com
 At the community, we talk about how to use IBridgePy to run algo trading strategies.
 
 -----------------------------------------------------
